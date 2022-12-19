@@ -25,4 +25,5 @@ Reza Rachmanto = Recruitment & My Info
 -Buat test case dan test manual fitur recruitment dan my info = Done
 -Buat automation test fitur Case Directory & Maintenance = https://drive.google.com/drive/folders/1Dx3nwyds5kncw_xTBx6ojVQNEedpWh7C
 -Dokumentasi test case = https://docs.google.com/spreadsheets/d/1xIAUkFQB9iUY7s8nfvpu8UpDWRf9faf7/edit?usp=sharing&ouid=107218207072934689554&rtpof=true&sd=true
+
 Perwakilan record = https://drive.google.com/drive/folders/1Dx3nwyds5kncw_xTBx6ojVQNEedpWh7C
